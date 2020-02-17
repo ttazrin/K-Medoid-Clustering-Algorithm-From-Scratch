@@ -1,0 +1,2 @@
+A program to implement k-medoids algorithm from scratch. The program calculates the dissimilarity matrix and then apply the k-medoids algorithm. The clustering process continues until cluster assignments do not change or maximum 100 iterations have
+been completed. The program also calculates average silhouette width for the final clustering solution.
